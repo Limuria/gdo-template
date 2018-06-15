@@ -25,6 +25,9 @@ $ git commit -m "Your new changes"
 $ git push heroku master
 ```
 
-5. Create a new entry on the GDO One-button (Touch) system that points to your app. (for this, talk to someone in the visualisation team).
+5. Create a new entry on the GDO One-button (Touch) system that points to your app. (For this, talk to someone in the visualisation team). You will need to provide:
+    1. The URL to your app (ex:- http://mighty-lion-12345.herokuapp.com)
+    2. Short title for your app (ex:- Supervised Learning)
+    3. Brief description of your app (ex:- Enhanced analysis algorithms for clinical datasets)
 
 6. Repeat step 4 as many time as you want to commit new changes, fixes and improvements. Heroku will redeploy your project after each commit, and the GDO will automatically reflect the changes.
